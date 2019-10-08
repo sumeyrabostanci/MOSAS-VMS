@@ -1,0 +1,35 @@
+{
+  "isRead": 0,
+  "width": 0,
+  "height": 0,
+  "Assets": [
+    {
+      "filename": "2.gif",
+      "time": 4,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    },
+    {
+      "filename": "15temmuz1.jpg",
+      "time": 4,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    },
+    {
+      "filename": "15temmuz2.jpg",
+      "time": 4,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    }
+  ],
+  "index": 0
+}

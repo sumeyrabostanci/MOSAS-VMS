@@ -1,0 +1,45 @@
+{
+  "isRead": 1,
+  "width": 750,
+  "height": 100,
+  "Assets": [
+
+    {
+      "filename": "yayanobeti.png",
+      "time": 4,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    },
+    {
+      "filename": "20.gif",
+      "time": 8,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    },
+    {
+      "filename": "yayanobeti.png",
+      "time": 4,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    },
+    {
+      "filename": "20.gif",
+      "time": 8,
+      "startx": 0,
+      "starty": 0,
+      "filetype": 0,
+      "endx": 0,
+      "endy": 0
+    }
+  ],
+  "index": 0
+}
